@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ratch_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ratchetandclank Sing Note DOWN0000" x="0" y="0" width="532" height="837" pivotX="68.65" pivotY="195.4" frameX="-5" frameY="0" frameWidth="537" frameHeight="738"/>
+	<SubTexture name="ratchetandclank Sing Note DOWN0001" x="0" y="0" width="532" height="837" frameX="-5" frameY="0" frameWidth="537" frameHeight="738"/>
+	<SubTexture name="ratchetandclank Sing Note DOWN0002" x="532" y="0" width="537" height="829" frameX="0" frameY="-9" frameWidth="537" frameHeight="738"/>
+	<SubTexture name="ratchetandclank Sing Note DOWN0003" x="532" y="0" width="537" height="829" frameX="0" frameY="-9" frameWidth="537" frameHeight="738"/>
+	<SubTexture name="ratchetandclank Sing Note DOWN0004" x="1069" y="0" width="536" height="828" frameX="0" frameY="-9" frameWidth="537" frameHeight="738"/>
+	<SubTexture name="ratchetandclank Sing Note DOWN0005" x="1069" y="0" width="536" height="828" frameX="0" frameY="-9" frameWidth="537" frameHeight="738"/>
+	<SubTexture name="ratchetandclank Sing Note DOWN0006" x="1069" y="0" width="536" height="828" frameX="0" frameY="-9" frameWidth="537" frameHeight="738"/>
+	<SubTexture name="ratchetandclank Sing Note DOWN0007" x="1069" y="0" width="536" height="828" frameX="0" frameY="-9" frameWidth="537" frameHeight="738"/>
+	<SubTexture name="ratchetandclank Sing Note DOWN0008" x="1069" y="0" width="536" height="828" frameX="0" frameY="-9" frameWidth="537" frameHeight="738"/>
+	<SubTexture name="ratchetandclank Sing Note DOWN0009" x="1069" y="0" width="536" height="828" frameX="0" frameY="-9" frameWidth="537" frameHeight="738"/>
+	<SubTexture name="ratchetandclank Sing Note DOWN0010" x="1069" y="0" width="536" height="828" frameX="0" frameY="-9" frameWidth="537" frameHeight="738"/>
+	<SubTexture name="ratchetandclank Sing Note DOWN0011" x="1069" y="0" width="536" height="828" frameX="0" frameY="-9" frameWidth="537" frameHeight="738"/>
+	<SubTexture name="ratchetandclank Sing Note DOWN0012" x="1069" y="0" width="536" height="828" frameX="0" frameY="-9" frameWidth="537" frameHeight="738"/>
+	<SubTexture name="ratchetandclank Sing Note DOWN0013" x="1069" y="0" width="536" height="828" frameX="0" frameY="-9" frameWidth="537" frameHeight="738"/>
+	<SubTexture name="ratchetandclank Sing Note DOWN0014" x="1069" y="0" width="536" height="828" frameX="0" frameY="-9" frameWidth="537" frameHeight="738"/>
+	<SubTexture name="ratchetandclank Sing Note DOWN0015" x="1069" y="0" width="536" height="828" frameX="0" frameY="-9" frameWidth="537" frameHeight="738"/>
+	<SubTexture name="ratchetandclank Sing Note LEFT0000" x="1605" y="0" width="460" height="730" pivotX="44.55" pivotY="67.55" frameX="0" frameY="0" frameWidth="464" frameHeight="730"/>
+	<SubTexture name="ratchetandclank Sing Note LEFT0001" x="1605" y="0" width="460" height="730" frameX="0" frameY="0" frameWidth="464" frameHeight="730"/>
+	<SubTexture name="ratchetandclank Sing Note LEFT0002" x="2065" y="0" width="451" height="730" frameX="-13" frameY="0" frameWidth="464" frameHeight="730"/>
+	<SubTexture name="ratchetandclank Sing Note LEFT0003" x="2065" y="0" width="451" height="730" frameX="-13" frameY="0" frameWidth="464" frameHeight="730"/>
+	<SubTexture name="ratchetandclank Sing Note LEFT0004" x="2516" y="0" width="450" height="730" frameX="-13" frameY="0" frameWidth="464" frameHeight="730"/>
+	<SubTexture name="ratchetandclank Sing Note LEFT0005" x="2516" y="0" width="450" height="730" frameX="-13" frameY="0" frameWidth="464" frameHeight="730"/>
+	<SubTexture name="ratchetandclank Sing Note LEFT0006" x="2516" y="0" width="450" height="730" frameX="-13" frameY="0" frameWidth="464" frameHeight="730"/>
+	<SubTexture name="ratchetandclank Sing Note LEFT0007" x="2516" y="0" width="450" height="730" frameX="-13" frameY="0" frameWidth="464" frameHeight="730"/>
+	<SubTexture name="ratchetandclank Sing Note LEFT0008" x="2516" y="0" width="450" height="730" frameX="-13" frameY="0" frameWidth="464" frameHeight="730"/>
+	<SubTexture name="ratchetandclank Sing Note LEFT0009" x="2516" y="0" width="450" height="730" frameX="-13" frameY="0" frameWidth="464" frameHeight="730"/>
+	<SubTexture name="ratchetandclank Sing Note LEFT0010" x="2516" y="0" width="450" height="730" frameX="-13" frameY="0" frameWidth="464" frameHeight="730"/>
+	<SubTexture name="ratchetandclank Sing Note LEFT0011" x="2516" y="0" width="450" height="730" frameX="-13" frameY="0" frameWidth="464" frameHeight="730"/>
+	<SubTexture name="ratchetandclank Sing Note LEFT0012" x="2516" y="0" width="450" height="730" frameX="-13" frameY="0" frameWidth="464" frameHeight="730"/>
+	<SubTexture name="ratchetandclank Sing Note LEFT0013" x="2516" y="0" width="450" height="730" frameX="-13" frameY="0" frameWidth="464" frameHeight="730"/>
+	<SubTexture name="ratchetandclank Sing Note LEFT0014" x="2516" y="0" width="450" height="730" frameX="-13" frameY="0" frameWidth="464" frameHeight="730"/>
+	<SubTexture name="ratchetandclank Sing Note LEFT0015" x="2516" y="0" width="450" height="730" frameX="-13" frameY="0" frameWidth="464" frameHeight="730"/>
+	<SubTexture name="ratchetandclank Sing Note LEFT0016" x="2516" y="0" width="450" height="730" frameX="-13" frameY="0" frameWidth="464" frameHeight="730"/>
+	<SubTexture name="ratchetandclank Sing Note LEFT0017" x="2516" y="0" width="450" height="730" frameX="-13" frameY="0" frameWidth="464" frameHeight="730"/>
+	<SubTexture name="ratchetandclank Sing Note LEFT0018" x="2516" y="0" width="450" height="730" frameX="-13" frameY="0" frameWidth="464" frameHeight="730"/>
+	<SubTexture name="ratchetandclank Sing Note RIGHT0000" x="2966" y="0" width="484" height="751" pivotX="97.85" pivotY="64.85" frameX="-13" frameY="0" frameWidth="497" frameHeight="752"/>
+	<SubTexture name="ratchetandclank Sing Note RIGHT0001" x="2966" y="0" width="484" height="751" frameX="-13" frameY="0" frameWidth="497" frameHeight="752"/>
+	<SubTexture name="ratchetandclank Sing Note RIGHT0002" x="3450" y="0" width="496" height="750" frameX="0" frameY="-2" frameWidth="497" frameHeight="752"/>
+	<SubTexture name="ratchetandclank Sing Note RIGHT0003" x="3450" y="0" width="496" height="750" frameX="0" frameY="-2" frameWidth="497" frameHeight="752"/>
+	<SubTexture name="ratchetandclank Sing Note RIGHT0004" x="0" y="837" width="497" height="749" frameX="0" frameY="-2" frameWidth="497" frameHeight="752"/>
+	<SubTexture name="ratchetandclank Sing Note RIGHT0005" x="0" y="837" width="497" height="749" frameX="0" frameY="-2" frameWidth="497" frameHeight="752"/>
+	<SubTexture name="ratchetandclank Sing Note RIGHT0006" x="0" y="837" width="497" height="749" frameX="0" frameY="-2" frameWidth="497" frameHeight="752"/>
+	<SubTexture name="ratchetandclank Sing Note RIGHT0007" x="0" y="837" width="497" height="749" frameX="0" frameY="-2" frameWidth="497" frameHeight="752"/>
+	<SubTexture name="ratchetandclank Sing Note RIGHT0008" x="0" y="837" width="497" height="749" frameX="0" frameY="-2" frameWidth="497" frameHeight="752"/>
+	<SubTexture name="ratchetandclank Sing Note RIGHT0009" x="0" y="837" width="497" height="749" frameX="0" frameY="-2" frameWidth="497" frameHeight="752"/>
+	<SubTexture name="ratchetandclank Sing Note RIGHT0010" x="0" y="837" width="497" height="749" frameX="0" frameY="-2" frameWidth="497" frameHeight="752"/>
+	<SubTexture name="ratchetandclank Sing Note RIGHT0011" x="0" y="837" width="497" height="749" frameX="0" frameY="-2" frameWidth="497" frameHeight="752"/>
+	<SubTexture name="ratchetandclank Sing Note RIGHT0012" x="0" y="837" width="497" height="749" frameX="0" frameY="-2" frameWidth="497" frameHeight="752"/>
+	<SubTexture name="ratchetandclank Sing Note RIGHT0013" x="0" y="837" width="497" height="749" frameX="0" frameY="-2" frameWidth="497" frameHeight="752"/>
+	<SubTexture name="ratchetandclank Sing Note RIGHT0014" x="0" y="837" width="497" height="749" frameX="0" frameY="-2" frameWidth="497" frameHeight="752"/>
+	<SubTexture name="ratchetandclank Sing Note RIGHT0015" x="0" y="837" width="497" height="749" frameX="0" frameY="-2" frameWidth="497" frameHeight="752"/>
+	<SubTexture name="ratchetandclank Sing Note UP0000" x="497" y="837" width="678" height="728" pivotX="609.35" pivotY="537.2" frameX="-7" frameY="-12" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0001" x="497" y="837" width="678" height="728" frameX="-7" frameY="-12" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0002" x="1175" y="837" width="675" height="741" frameX="0" frameY="0" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0003" x="1175" y="837" width="675" height="741" frameX="0" frameY="0" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0004" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0005" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0006" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0007" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0008" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0009" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0010" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0011" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0012" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0013" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0014" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0015" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0016" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0017" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0018" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0019" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0020" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0021" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0022" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0023" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0024" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0025" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0026" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0027" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0028" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0029" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0030" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0031" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0032" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0033" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0034" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0035" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0036" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0037" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0038" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0039" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0040" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0041" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0042" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0043" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0044" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0045" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0046" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0047" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0048" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0049" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0050" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0051" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0052" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0053" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0054" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0055" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0056" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0057" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0058" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank Sing Note UP0059" x="1850" y="837" width="676" height="740" frameX="0" frameY="-1" frameWidth="685" frameHeight="741"/>
+	<SubTexture name="ratchetandclank idle dance0000" x="2526" y="837" width="552" height="819" pivotX="528.5" pivotY="616.85" frameX="-17" frameY="-1" frameWidth="574" frameHeight="820"/>
+	<SubTexture name="ratchetandclank idle dance0001" x="3078" y="837" width="559" height="817" frameX="-11" frameY="-2" frameWidth="574" frameHeight="820"/>
+	<SubTexture name="ratchetandclank idle dance0002" x="0" y="1656" width="565" height="813" frameX="-5" frameY="-4" frameWidth="574" frameHeight="820"/>
+	<SubTexture name="ratchetandclank idle dance0003" x="565" y="1656" width="568" height="812" frameX="-4" frameY="-3" frameWidth="574" frameHeight="820"/>
+	<SubTexture name="ratchetandclank idle dance0004" x="1133" y="1656" width="571" height="814" frameX="-2" frameY="-1" frameWidth="574" frameHeight="820"/>
+	<SubTexture name="ratchetandclank idle dance0005" x="1704" y="1656" width="574" height="815" frameX="0" frameY="0" frameWidth="574" frameHeight="820"/>
+	<SubTexture name="ratchetandclank idle dance0006" x="2278" y="1656" width="569" height="812" frameX="-4" frameY="-3" frameWidth="574" frameHeight="820"/>
+	<SubTexture name="ratchetandclank idle dance0007" x="2847" y="1656" width="562" height="811" frameX="-9" frameY="-5" frameWidth="574" frameHeight="820"/>
+	<SubTexture name="ratchetandclank idle dance0008" x="3409" y="1656" width="560" height="815" frameX="-11" frameY="-3" frameWidth="574" frameHeight="820"/>
+	<SubTexture name="ratchetandclank idle dance0009" x="0" y="2471" width="556" height="817" frameX="-14" frameY="-2" frameWidth="574" frameHeight="820"/>
+	<SubTexture name="ratchetandclank idle dance0010" x="2526" y="837" width="552" height="819" frameX="-17" frameY="-1" frameWidth="574" frameHeight="820"/>
+	<SubTexture name="ratchetandclank idle dance0011" x="2526" y="837" width="552" height="819" frameX="-17" frameY="-1" frameWidth="574" frameHeight="820"/>
+	<SubTexture name="ratchetandclank idle dance0012" x="2526" y="837" width="552" height="819" frameX="-17" frameY="-1" frameWidth="574" frameHeight="820"/>
+</TextureAtlas>

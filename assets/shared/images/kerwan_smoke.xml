@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kerwan_smoke.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Smoke0000" x="0" y="0" width="1968" height="1582" pivotX="575" pivotY="555.6" frameX="0" frameY="-4" frameWidth="1968" frameHeight="1586"/>
+	<SubTexture name="Smoke0001" x="0" y="0" width="1968" height="1582" frameX="0" frameY="-4" frameWidth="1968" frameHeight="1586"/>
+	<SubTexture name="Smoke0002" x="0" y="0" width="1968" height="1582" frameX="0" frameY="-4" frameWidth="1968" frameHeight="1586"/>
+	<SubTexture name="Smoke0003" x="0" y="0" width="1968" height="1582" frameX="0" frameY="-4" frameWidth="1968" frameHeight="1586"/>
+	<SubTexture name="Smoke0004" x="1968" y="0" width="1968" height="1586"/>
+	<SubTexture name="Smoke0005" x="1968" y="0" width="1968" height="1586"/>
+	<SubTexture name="Smoke0006" x="1968" y="0" width="1968" height="1586"/>
+	<SubTexture name="Smoke0007" x="1968" y="0" width="1968" height="1586"/>
+	<SubTexture name="Smoke0008" x="3936" y="0" width="1968" height="1528" frameX="0" frameY="-58" frameWidth="1968" frameHeight="1586"/>
+	<SubTexture name="Smoke0009" x="3936" y="0" width="1968" height="1528" frameX="0" frameY="-58" frameWidth="1968" frameHeight="1586"/>
+	<SubTexture name="Smoke0010" x="3936" y="0" width="1968" height="1528" frameX="0" frameY="-58" frameWidth="1968" frameHeight="1586"/>
+	<SubTexture name="Smoke0011" x="3936" y="0" width="1968" height="1528" frameX="0" frameY="-58" frameWidth="1968" frameHeight="1586"/>
+	<SubTexture name="Smoke0012" x="5904" y="0" width="1968" height="1519" frameX="0" frameY="-67" frameWidth="1968" frameHeight="1586"/>
+	<SubTexture name="Smoke0013" x="5904" y="0" width="1968" height="1519" frameX="0" frameY="-67" frameWidth="1968" frameHeight="1586"/>
+	<SubTexture name="Smoke0014" x="5904" y="0" width="1968" height="1519" frameX="0" frameY="-67" frameWidth="1968" frameHeight="1586"/>
+	<SubTexture name="Smoke0015" x="5904" y="0" width="1968" height="1519" frameX="0" frameY="-67" frameWidth="1968" frameHeight="1586"/>
+	<SubTexture name="Smoke0016" x="0" y="1586" width="1968" height="1518" frameX="0" frameY="-68" frameWidth="1968" frameHeight="1586"/>
+	<SubTexture name="Smoke0017" x="0" y="1586" width="1968" height="1518" frameX="0" frameY="-68" frameWidth="1968" frameHeight="1586"/>
+	<SubTexture name="Smoke0018" x="0" y="1586" width="1968" height="1518" frameX="0" frameY="-68" frameWidth="1968" frameHeight="1586"/>
+	<SubTexture name="Smoke0019" x="0" y="1586" width="1968" height="1518" frameX="0" frameY="-68" frameWidth="1968" frameHeight="1586"/>
+	<SubTexture name="Smoke0020" x="1968" y="1586" width="1968" height="1516" frameX="0" frameY="-70" frameWidth="1968" frameHeight="1586"/>
+	<SubTexture name="Smoke0021" x="1968" y="1586" width="1968" height="1516" frameX="0" frameY="-70" frameWidth="1968" frameHeight="1586"/>
+	<SubTexture name="Smoke0022" x="1968" y="1586" width="1968" height="1516" frameX="0" frameY="-70" frameWidth="1968" frameHeight="1586"/>
+	<SubTexture name="Smoke0023" x="1968" y="1586" width="1968" height="1516" frameX="0" frameY="-70" frameWidth="1968" frameHeight="1586"/>
+	<SubTexture name="Smoke0024" x="3936" y="1586" width="1968" height="1529" frameX="0" frameY="-57" frameWidth="1968" frameHeight="1586"/>
+	<SubTexture name="Smoke0025" x="3936" y="1586" width="1968" height="1529" frameX="0" frameY="-57" frameWidth="1968" frameHeight="1586"/>
+	<SubTexture name="Smoke0026" x="3936" y="1586" width="1968" height="1529" frameX="0" frameY="-57" frameWidth="1968" frameHeight="1586"/>
+	<SubTexture name="Smoke0027" x="3936" y="1586" width="1968" height="1529" frameX="0" frameY="-57" frameWidth="1968" frameHeight="1586"/>
+	<SubTexture name="Smoke0028" x="5904" y="1586" width="1968" height="1513" frameX="0" frameY="-73" frameWidth="1968" frameHeight="1586"/>
+	<SubTexture name="Smoke0029" x="5904" y="1586" width="1968" height="1513" frameX="0" frameY="-73" frameWidth="1968" frameHeight="1586"/>
+	<SubTexture name="Smoke0030" x="5904" y="1586" width="1968" height="1513" frameX="0" frameY="-73" frameWidth="1968" frameHeight="1586"/>
+	<SubTexture name="Smoke0031" x="5904" y="1586" width="1968" height="1513" frameX="0" frameY="-73" frameWidth="1968" frameHeight="1586"/>
+	<SubTexture name="Smoke0032" x="0" y="3115" width="1968" height="1517" frameX="0" frameY="-69" frameWidth="1968" frameHeight="1586"/>
+	<SubTexture name="Smoke0033" x="0" y="3115" width="1968" height="1517" frameX="0" frameY="-69" frameWidth="1968" frameHeight="1586"/>
+	<SubTexture name="Smoke0034" x="0" y="3115" width="1968" height="1517" frameX="0" frameY="-69" frameWidth="1968" frameHeight="1586"/>
+	<SubTexture name="Smoke0035" x="0" y="3115" width="1968" height="1517" frameX="0" frameY="-69" frameWidth="1968" frameHeight="1586"/>
+	<SubTexture name="Smoke0036" x="1968" y="3115" width="1968" height="1573" frameX="0" frameY="-13" frameWidth="1968" frameHeight="1586"/>
+	<SubTexture name="Smoke0037" x="1968" y="3115" width="1968" height="1573" frameX="0" frameY="-13" frameWidth="1968" frameHeight="1586"/>
+	<SubTexture name="Smoke0038" x="1968" y="3115" width="1968" height="1573" frameX="0" frameY="-13" frameWidth="1968" frameHeight="1586"/>
+	<SubTexture name="Smoke0039" x="1968" y="3115" width="1968" height="1573" frameX="0" frameY="-13" frameWidth="1968" frameHeight="1586"/>
+	<SubTexture name="Smoke0040" x="3936" y="3115" width="1968" height="1436" frameX="0" frameY="-150" frameWidth="1968" frameHeight="1586"/>
+	<SubTexture name="Smoke0041" x="3936" y="3115" width="1968" height="1436" frameX="0" frameY="-150" frameWidth="1968" frameHeight="1586"/>
+	<SubTexture name="Smoke0042" x="3936" y="3115" width="1968" height="1436" frameX="0" frameY="-150" frameWidth="1968" frameHeight="1586"/>
+</TextureAtlas>

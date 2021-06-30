@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GFCclank_assets.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GFCC Cheer0000" x="0" y="0" width="699" height="657" pivotX="149.4" pivotY="318.4" frameX="-2" frameY="0" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="GFC Cheer0001" x="699" y="0" width="703" height="657"/>
+	<SubTexture name="GFC Cheer0002" x="1402" y="0" width="703" height="654" frameX="0" frameY="-3" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="GFC Cheer0003" x="2105" y="0" width="699" height="654" frameX="-2" frameY="-3" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="GFC Cheer0004" x="2804" y="0" width="699" height="654" frameX="-2" frameY="-3" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="GFC Cheer0005" x="2804" y="0" width="699" height="654" frameX="-2" frameY="-3" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="GFC Cheer0006" x="2804" y="0" width="699" height="654" frameX="-2" frameY="-3" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="GFC Cheer0007" x="2804" y="0" width="699" height="654" frameX="-2" frameY="-3" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="GFC Cheer0008" x="2804" y="0" width="699" height="654" frameX="-2" frameY="-3" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="GFC Cheer0009" x="2804" y="0" width="699" height="654" frameX="-2" frameY="-3" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="GFC Cheer0010" x="2804" y="0" width="699" height="654" frameX="-2" frameY="-3" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="GFC Cheer0011" x="2804" y="0" width="699" height="654" frameX="-2" frameY="-3" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="GFC Cheer0012" x="2804" y="0" width="699" height="654" frameX="-2" frameY="-3" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="GFC Cheer0013" x="2804" y="0" width="699" height="654" frameX="-2" frameY="-3" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="GFC Cheer0014" x="2804" y="0" width="699" height="654" frameX="-2" frameY="-3" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="GFC Cheer0015" x="2804" y="0" width="699" height="654" frameX="-2" frameY="-3" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="GFC Cheer0016" x="2804" y="0" width="699" height="654" frameX="-2" frameY="-3" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="GFC Cheer0017" x="2804" y="0" width="699" height="654" frameX="-2" frameY="-3" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="GFC Cheer0018" x="2804" y="0" width="699" height="654" frameX="-2" frameY="-3" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="GFC Cheer0019" x="2804" y="0" width="699" height="654" frameX="-2" frameY="-3" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="GFC Cheer0020" x="2804" y="0" width="699" height="654" frameX="-2" frameY="-3" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="GFC Dancing Beat0000" x="3503" y="0" width="699" height="634" pivotX="149.4" pivotY="309.7" frameX="-2" frameY="-14" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat0001" x="4202" y="0" width="703" height="634" frameX="0" frameY="-14" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat0002" x="4905" y="0" width="703" height="632" frameX="0" frameY="-16" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat0003" x="5608" y="0" width="699" height="632" frameX="-2" frameY="-16" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat0004" x="6307" y="0" width="699" height="635" frameX="-2" frameY="-13" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat0005" x="7006" y="0" width="699" height="635" frameX="-2" frameY="-13" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat0006" x="0" y="657" width="699" height="637" frameX="-2" frameY="-11" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat0007" x="699" y="657" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat0008" x="1398" y="657" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat0009" x="2097" y="657" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat0010" x="2796" y="657" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat0011" x="3495" y="657" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat0012" x="4194" y="657" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat0013" x="4893" y="657" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat0014" x="5592" y="657" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat0015" x="6291" y="657" width="699" height="636" frameX="-2" frameY="-12" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat0016" x="6990" y="657" width="703" height="636" frameX="0" frameY="-12" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat0017" x="0" y="1305" width="703" height="636" frameX="0" frameY="-12" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat0018" x="703" y="1305" width="699" height="636" frameX="-2" frameY="-12" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat0019" x="1402" y="1305" width="699" height="637" frameX="-2" frameY="-11" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat0020" x="2101" y="1305" width="699" height="637" frameX="-2" frameY="-11" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat0021" x="2800" y="1305" width="699" height="638" frameX="-2" frameY="-10" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat0022" x="3499" y="1305" width="699" height="643" frameX="-2" frameY="-5" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat0023" x="4198" y="1305" width="699" height="643" frameX="-2" frameY="-5" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat0024" x="4897" y="1305" width="699" height="643" frameX="-2" frameY="-5" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat0025" x="5596" y="1305" width="699" height="642" frameX="-2" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat0026" x="6295" y="1305" width="699" height="642" frameX="-2" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat0027" x="6994" y="1305" width="699" height="642" frameX="-2" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat0028" x="0" y="1948" width="699" height="642" frameX="-2" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat0029" x="699" y="1948" width="699" height="642" frameX="-2" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat Hair Landing0000" x="1398" y="1948" width="699" height="635" pivotX="149.4" pivotY="309.7" frameX="-2" frameY="-13" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat Hair Landing0001" x="2097" y="1948" width="703" height="635" frameX="0" frameY="-13" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat Hair Landing0002" x="2800" y="1948" width="703" height="619" frameX="0" frameY="-29" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat Hair Landing0003" x="3503" y="1948" width="699" height="619" frameX="-2" frameY="-29" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat Hair Landing0004" x="4202" y="1948" width="699" height="607" frameX="-2" frameY="-41" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat Hair Landing0005" x="4901" y="1948" width="699" height="607" frameX="-2" frameY="-41" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat Hair Landing0006" x="5600" y="1948" width="699" height="626" frameX="-2" frameY="-22" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat Hair Landing0007" x="6299" y="1948" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat Hair Landing0008" x="6299" y="1948" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat Hair Landing0009" x="6299" y="1948" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat Hair Landing0010" x="6998" y="1948" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat Hair Landing0011" x="6998" y="1948" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat Hair Landing0012" x="6998" y="1948" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat Hair Landing0013" x="0" y="2596" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat Hair Landing0014" x="0" y="2596" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat Hair Landing0015" x="699" y="2596" width="699" height="636" frameX="-2" frameY="-12" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat Hair Landing0016" x="1398" y="2596" width="703" height="636" frameX="0" frameY="-12" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat Hair Landing0017" x="2101" y="2596" width="703" height="636" frameX="0" frameY="-12" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat Hair Landing0018" x="2804" y="2596" width="699" height="636" frameX="-2" frameY="-12" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat Hair Landing0019" x="3503" y="2596" width="699" height="637" frameX="-2" frameY="-11" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat Hair Landing0020" x="4202" y="2596" width="699" height="637" frameX="-2" frameY="-11" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat Hair Landing0021" x="4901" y="2596" width="699" height="638" frameX="-2" frameY="-10" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat Hair Landing0022" x="5600" y="2596" width="699" height="643" frameX="-2" frameY="-5" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat Hair Landing0023" x="5600" y="2596" width="699" height="643" frameX="-2" frameY="-5" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat Hair Landing0024" x="5600" y="2596" width="699" height="643" frameX="-2" frameY="-5" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat Hair Landing0025" x="6299" y="2596" width="699" height="642" frameX="-2" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat Hair Landing0026" x="6299" y="2596" width="699" height="642" frameX="-2" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat Hair Landing0027" x="6299" y="2596" width="699" height="642" frameX="-2" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat Hair Landing0028" x="6998" y="2596" width="699" height="642" frameX="-2" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat Hair Landing0029" x="6998" y="2596" width="699" height="642" frameX="-2" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing0000" x="0" y="3244" width="701" height="636" pivotX="194.9" pivotY="310.15" frameX="-45" frameY="-13" frameWidth="748" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing0001" x="701" y="3244" width="703" height="636" frameX="-45" frameY="-13" frameWidth="748" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing0002" x="1404" y="3244" width="748" height="628" frameX="0" frameY="-21" frameWidth="748" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing0003" x="2152" y="3244" width="699" height="627" frameX="-47" frameY="-22" frameWidth="748" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing0004" x="2851" y="3244" width="701" height="638" frameX="-45" frameY="-11" frameWidth="748" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing0005" x="3552" y="3244" width="701" height="638" frameX="-45" frameY="-11" frameWidth="748" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing0006" x="4253" y="3244" width="739" height="636" frameX="-7" frameY="-13" frameWidth="748" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing0007" x="4992" y="3244" width="699" height="647" frameX="-47" frameY="-2" frameWidth="748" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing0008" x="5691" y="3244" width="728" height="639" frameX="-18" frameY="-10" frameWidth="748" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing0009" x="6419" y="3244" width="699" height="638" frameX="-47" frameY="-11" frameWidth="748" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing0010" x="7118" y="3244" width="699" height="649" frameX="-47" frameY="0" frameWidth="748" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing0011" x="7118" y="3244" width="699" height="649" frameX="-47" frameY="0" frameWidth="748" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing0012" x="0" y="3893" width="726" height="641" frameX="-20" frameY="-8" frameWidth="748" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing0013" x="726" y="3893" width="699" height="648" frameX="-47" frameY="-1" frameWidth="748" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing0014" x="1425" y="3893" width="725" height="640" frameX="-21" frameY="-9" frameWidth="748" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing0015" x="2150" y="3893" width="699" height="625" frameX="-47" frameY="-24" frameWidth="748" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing0016" x="2849" y="3893" width="703" height="634" frameX="-45" frameY="-15" frameWidth="748" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing0017" x="3552" y="3893" width="703" height="631" frameX="-45" frameY="-18" frameWidth="748" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing0018" x="4255" y="3893" width="709" height="623" frameX="-37" frameY="-26" frameWidth="748" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing0019" x="4964" y="3893" width="699" height="634" frameX="-47" frameY="-15" frameWidth="748" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing0020" x="5663" y="3893" width="710" height="626" frameX="-36" frameY="-23" frameWidth="748" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing0021" x="6373" y="3893" width="699" height="630" frameX="-47" frameY="-19" frameWidth="748" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing0022" x="7072" y="3893" width="699" height="646" frameX="-47" frameY="-3" frameWidth="748" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing0023" x="7072" y="3893" width="699" height="646" frameX="-47" frameY="-3" frameWidth="748" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing0024" x="0" y="4541" width="715" height="638" frameX="-31" frameY="-11" frameWidth="748" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing0025" x="715" y="4541" width="699" height="647" frameX="-47" frameY="-2" frameWidth="748" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing0026" x="1414" y="4541" width="716" height="639" frameX="-30" frameY="-10" frameWidth="748" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing0027" x="2130" y="4541" width="699" height="638" frameX="-47" frameY="-11" frameWidth="748" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing0028" x="2829" y="4541" width="699" height="646" frameX="-47" frameY="-3" frameWidth="748" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing0029" x="2829" y="4541" width="699" height="646" frameX="-47" frameY="-3" frameWidth="748" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing CAR0000" x="3528" y="4541" width="699" height="634" pivotX="149.4" pivotY="310.15" frameX="-2" frameY="-15" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing CAR0001" x="4227" y="4541" width="703" height="634" frameX="0" frameY="-15" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing CAR0002" x="4930" y="4541" width="728" height="626" frameX="0" frameY="-23" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing CAR0003" x="5658" y="4541" width="699" height="625" frameX="-2" frameY="-24" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing CAR0004" x="6357" y="4541" width="699" height="638" frameX="-2" frameY="-11" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing CAR0005" x="7056" y="4541" width="699" height="638" frameX="-2" frameY="-11" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing CAR0006" x="0" y="5188" width="727" height="636" frameX="-2" frameY="-13" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing CAR0007" x="727" y="5188" width="702" height="647" frameX="-2" frameY="-2" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing CAR0008" x="1429" y="5188" width="749" height="639" frameX="-2" frameY="-10" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing CAR0009" x="2178" y="5188" width="699" height="638" frameX="-2" frameY="-11" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing CAR0010" x="2877" y="5188" width="712" height="649" frameX="-2" frameY="0" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing CAR0011" x="2877" y="5188" width="712" height="649" frameX="-2" frameY="0" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing CAR0012" x="3589" y="5188" width="757" height="641" frameX="-2" frameY="-8" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing CAR0013" x="4346" y="5188" width="711" height="648" frameX="-2" frameY="-1" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing CAR0014" x="5057" y="5188" width="755" height="640" frameX="-2" frameY="-9" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing CAR0015" x="5812" y="5188" width="712" height="625" frameX="-2" frameY="-24" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing CAR0016" x="6524" y="5188" width="729" height="634" frameX="0" frameY="-15" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing CAR0017" x="7253" y="5188" width="722" height="631" frameX="0" frameY="-18" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing CAR0018" x="0" y="5837" width="766" height="623" frameX="-2" frameY="-26" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing CAR0019" x="766" y="5837" width="721" height="634" frameX="-2" frameY="-15" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing CAR0020" x="1487" y="5837" width="766" height="626" frameX="-2" frameY="-23" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing CAR0021" x="2253" y="5837" width="707" height="630" frameX="-2" frameY="-19" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing CAR0022" x="2960" y="5837" width="716" height="646" frameX="-2" frameY="-3" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing CAR0023" x="2960" y="5837" width="716" height="646" frameX="-2" frameY="-3" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing CAR0024" x="3676" y="5837" width="759" height="638" frameX="-2" frameY="-11" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing CAR0025" x="4435" y="5837" width="714" height="647" frameX="-2" frameY="-2" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing CAR0026" x="5149" y="5837" width="756" height="639" frameX="-2" frameY="-10" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing CAR0027" x="5905" y="5837" width="699" height="638" frameX="-2" frameY="-11" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing CAR0028" x="6604" y="5837" width="712" height="646" frameX="-2" frameY="-3" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GFC Dancing Beat Hair blowing CAR0029" x="6604" y="5837" width="712" height="646" frameX="-2" frameY="-3" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GFC Down Note0000" x="7316" y="5837" width="699" height="631" pivotX="149.4" pivotY="298.1" frameX="-2" frameY="-6" frameWidth="703" frameHeight="637"/>
+	<SubTexture name="GFC Down Note0001" x="0" y="6484" width="703" height="631" frameX="0" frameY="-6" frameWidth="703" frameHeight="637"/>
+	<SubTexture name="GFC Down Note0002" x="703" y="6484" width="703" height="636" frameX="0" frameY="-1" frameWidth="703" frameHeight="637"/>
+	<SubTexture name="GFC Down Note0003" x="1406" y="6484" width="699" height="636" frameX="-2" frameY="-1" frameWidth="703" frameHeight="637"/>
+	<SubTexture name="GFC Down Note0004" x="2105" y="6484" width="699" height="637" frameX="-2" frameY="0" frameWidth="703" frameHeight="637"/>
+	<SubTexture name="GFC Down Note0005" x="2105" y="6484" width="699" height="637" frameX="-2" frameY="0" frameWidth="703" frameHeight="637"/>
+	<SubTexture name="GFC Down Note0006" x="2105" y="6484" width="699" height="637" frameX="-2" frameY="0" frameWidth="703" frameHeight="637"/>
+	<SubTexture name="GFC Down Note0007" x="2105" y="6484" width="699" height="637" frameX="-2" frameY="0" frameWidth="703" frameHeight="637"/>
+	<SubTexture name="GFC Down Note0008" x="2105" y="6484" width="699" height="637" frameX="-2" frameY="0" frameWidth="703" frameHeight="637"/>
+	<SubTexture name="GFC Down Note0009" x="2105" y="6484" width="699" height="637" frameX="-2" frameY="0" frameWidth="703" frameHeight="637"/>
+	<SubTexture name="GFC Down Note0010" x="2105" y="6484" width="699" height="637" frameX="-2" frameY="0" frameWidth="703" frameHeight="637"/>
+	<SubTexture name="GFC Down Note0011" x="2105" y="6484" width="699" height="637" frameX="-2" frameY="0" frameWidth="703" frameHeight="637"/>
+	<SubTexture name="GFC Down Note0012" x="2105" y="6484" width="699" height="637" frameX="-2" frameY="0" frameWidth="703" frameHeight="637"/>
+	<SubTexture name="GFC Down Note0013" x="2105" y="6484" width="699" height="637" frameX="-2" frameY="0" frameWidth="703" frameHeight="637"/>
+	<SubTexture name="GFC Down Note0014" x="2105" y="6484" width="699" height="637" frameX="-2" frameY="0" frameWidth="703" frameHeight="637"/>
+	<SubTexture name="GFC Down Note0015" x="2105" y="6484" width="699" height="637" frameX="-2" frameY="0" frameWidth="703" frameHeight="637"/>
+	<SubTexture name="GFC Down Note0016" x="2105" y="6484" width="699" height="637" frameX="-2" frameY="0" frameWidth="703" frameHeight="637"/>
+	<SubTexture name="GFC Down Note0017" x="2105" y="6484" width="699" height="637" frameX="-2" frameY="0" frameWidth="703" frameHeight="637"/>
+	<SubTexture name="GFC Down Note0018" x="2105" y="6484" width="699" height="637" frameX="-2" frameY="0" frameWidth="703" frameHeight="637"/>
+	<SubTexture name="GFC Down Note0019" x="2105" y="6484" width="699" height="637" frameX="-2" frameY="0" frameWidth="703" frameHeight="637"/>
+	<SubTexture name="GFC Duck0000" x="2804" y="6484" width="713" height="552" pivotX="154.85" pivotY="224.5" frameX="0" frameY="-11" frameWidth="713" frameHeight="563"/>
+	<SubTexture name="GFC Duck0001" x="2804" y="6484" width="713" height="552" frameX="0" frameY="-11" frameWidth="713" frameHeight="563"/>
+	<SubTexture name="GFC Duck0002" x="3517" y="6484" width="708" height="563" frameX="-3" frameY="0" frameWidth="713" frameHeight="563"/>
+	<SubTexture name="GFC Duck0003" x="3517" y="6484" width="708" height="563" frameX="-3" frameY="0" frameWidth="713" frameHeight="563"/>
+	<SubTexture name="GFC Duck Hair Blowing0000" x="4225" y="6484" width="713" height="564" pivotX="154.85" pivotY="233.7" frameX="0" frameY="-8" frameWidth="727" frameHeight="572"/>
+	<SubTexture name="GFC Duck Hair Blowing0001" x="4225" y="6484" width="713" height="564" frameX="0" frameY="-8" frameWidth="727" frameHeight="572"/>
+	<SubTexture name="GFC Duck Hair Blowing0002" x="4938" y="6484" width="724" height="572" frameX="-3" frameY="0" frameWidth="727" frameHeight="572"/>
+	<SubTexture name="GFC Duck Hair Blowing0003" x="5662" y="6484" width="708" height="571" frameX="-3" frameY="-1" frameWidth="727" frameHeight="572"/>
+	<SubTexture name="GFC FEAR 0000" x="6370" y="6484" width="699" height="640" pivotX="147.15" pivotY="301.9"/>
+	<SubTexture name="GFC FEAR 0001" x="7069" y="6484" width="699" height="640"/>
+	<SubTexture name="GFC FEAR 0002" x="0" y="7124" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GFC FEAR 0003" x="699" y="7124" width="699" height="640"/>
+	<SubTexture name="GFC Right Note0000" x="1398" y="7124" width="699" height="632" pivotX="149.4" pivotY="298.85" frameX="-2" frameY="-5" frameWidth="703" frameHeight="637"/>
+	<SubTexture name="GFC Right Note0001" x="2097" y="7124" width="703" height="632" frameX="0" frameY="-5" frameWidth="703" frameHeight="637"/>
+	<SubTexture name="GFC Right Note0002" x="2800" y="7124" width="703" height="637"/>
+	<SubTexture name="GFC Right Note0003" x="3503" y="7124" width="699" height="637" frameX="-2" frameY="0" frameWidth="703" frameHeight="637"/>
+	<SubTexture name="GFC Right Note0004" x="4202" y="7124" width="699" height="637" frameX="-2" frameY="0" frameWidth="703" frameHeight="637"/>
+	<SubTexture name="GFC Right Note0005" x="4901" y="7124" width="699" height="637" frameX="-2" frameY="0" frameWidth="703" frameHeight="637"/>
+	<SubTexture name="GFC Right Note0006" x="5600" y="7124" width="699" height="637" frameX="-2" frameY="0" frameWidth="703" frameHeight="637"/>
+	<SubTexture name="GFC Right Note0007" x="5600" y="7124" width="699" height="637" frameX="-2" frameY="0" frameWidth="703" frameHeight="637"/>
+	<SubTexture name="GFC Right Note0008" x="6299" y="7124" width="699" height="637" frameX="-2" frameY="0" frameWidth="703" frameHeight="637"/>
+	<SubTexture name="GFC Right Note0009" x="6299" y="7124" width="699" height="637" frameX="-2" frameY="0" frameWidth="703" frameHeight="637"/>
+	<SubTexture name="GFC Right Note0010" x="6299" y="7124" width="699" height="637" frameX="-2" frameY="0" frameWidth="703" frameHeight="637"/>
+	<SubTexture name="GFC Right Note0011" x="6299" y="7124" width="699" height="637" frameX="-2" frameY="0" frameWidth="703" frameHeight="637"/>
+	<SubTexture name="GFC Right Note0012" x="6299" y="7124" width="699" height="637" frameX="-2" frameY="0" frameWidth="703" frameHeight="637"/>
+	<SubTexture name="GFC Right Note0013" x="6299" y="7124" width="699" height="637" frameX="-2" frameY="0" frameWidth="703" frameHeight="637"/>
+	<SubTexture name="GFC Right Note0014" x="6299" y="7124" width="699" height="637" frameX="-2" frameY="0" frameWidth="703" frameHeight="637"/>
+	<SubTexture name="GFC Up Note0000" x="6998" y="7124" width="699" height="661" pivotX="149.4" pivotY="322.5" frameX="-2" frameY="0" frameWidth="703" frameHeight="661"/>
+</TextureAtlas>
