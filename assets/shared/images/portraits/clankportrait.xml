@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="clankportrait.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="clankportraitt0000" x="0" y="0" width="148" height="241" pivotX="0" pivotY="0"/>
+	<SubTexture name="clankportraitt0001" x="148" y="0" width="148" height="241"/>
+	<SubTexture name="clankportraitt0002" x="296" y="0" width="148" height="241"/>
+	<SubTexture name="clankportraitt0003" x="0" y="241" width="148" height="241"/>
+</TextureAtlas>

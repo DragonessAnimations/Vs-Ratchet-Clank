@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfportrait.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gfportraitt0000" x="0" y="0" width="264" height="211" pivotX="0" pivotY="0"/>
+	<SubTexture name="gfportraitt0001" x="264" y="0" width="264" height="211"/>
+	<SubTexture name="gfportraitt0002" x="528" y="0" width="264" height="211"/>
+	<SubTexture name="gfportraitt0003" x="0" y="211" width="264" height="211"/>
+</TextureAtlas>
